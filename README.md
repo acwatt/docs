@@ -2,6 +2,9 @@
 
 This repository is the documentation for the open source project Gogs.
 
+## What is Gogs?
+Gogs allows you to deploy a local Git server for a single machine or a small network. It lets you clone and push code using HTTP and SSH protocols, and provides a nice web UI with common features such as Pull Requests and Issues.
+
 ## Contributing
 
 Fork, update and submit a pull request. No matter how big or small, your changes are welcome!
